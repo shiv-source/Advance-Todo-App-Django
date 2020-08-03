@@ -1,0 +1,68 @@
+.card-title {
+    text-align: center;
+    color:#007bff;
+}
+.num{
+    text-align: center;
+}
+.footerClass {
+    position: relative;
+    bottom: -225px;
+  }
+  .dashboardResult {
+    position: relative;
+    top: 70px;
+}
+
+
+.edit{margin-right: 30px;background-color: #0303f3;border-radius: 0px;padding: 0 20px;}
+.delete{background-color: red;padding: 0 20px;border-radius: 0px;}
+.edit i,.delete i{font-size: 15px;line-height: 20px;color: #fff;}
+.task-section{padding-bottom: 30px;}
+
+
+.form{
+    text-align: center;
+}
+
+.userName{
+    text-align: center;
+    margin-top: 2px;
+    color: red;
+}
+
+/* .card-body{
+    color: #349e78;
+} */
+
+.dashBoardCard {
+    border-radius: 6px;
+    /* background: #f5ffa7; */
+}
+
+.addingTodo{
+    color: #6807ff;
+}
+.signupCardFooter{
+    text-align: center;
+}
+
+.card{
+    border-radius: 8px;
+}
+
+.paginationNav{
+   margin-left: 40%;
+}
+
+.alertMessage {
+    position: relative;
+    width: 450px;
+    text-align: init;
+    left: 750px;
+   
+}
+
+.alert-success{
+    background-color: #69f98d;
+}

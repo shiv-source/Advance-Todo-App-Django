@@ -1,0 +1,7 @@
+.bg-light {
+    background-color: #96c9ff!important;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0px;
+}
